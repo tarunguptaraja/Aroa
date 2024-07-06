@@ -1,50 +1,57 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Logo](https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/668914360015c82c72a5/view?project=66859bce00205e2443e4)
 
-## Get started
+# Aora - Video Sharing Application [[ Download ]](https://drive.google.com/file/d/1-vz9qGFv8B_6vdWjvelUaTepN_L2W62V/view?usp=sharing)
 
-1. Install dependencies
+Welcome to **Aora**, a modern video sharing application built using React Native, Expo, and Appwrite. This application allows users to upload and view videos with ease.
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
+## Tech Stack
 
-In the output, you'll find options to open the app in a
+**Client:** React Native, Expo, TailwindCSS, JavaScript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Server:** Appwrite
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## Run Locally
 
-When you're ready, run:
+Clone the project
 
 ```bash
-npm run reset-project
+  git clone https://github.com/tarunguptaraja/Aroa.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Go to the project directory
 
-## Learn more
+```bash
+  cd Aora
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+Install dependencies
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+  npm install
+```
 
-## Join the community
+Start the server
 
-Join our community of developers creating universal apps.
+```bash
+  npm run start
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/6689159000306075bba2/view?project=66859bce00205e2443e4&mode=admin"></td>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/6689157f00292700e387/view?project=66859bce00205e2443e4&mode=admin"></td>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/6689159b002a1fef7aac/view?project=66859bce00205e2443e4&mode=admin"></td>
+  </tr>
+  <tr>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/66891589003df8a6f34d/view?project=66859bce00205e2443e4&mode=admin"></td>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/668915af00126ccfc507/view?project=66859bce00205e2443e4&mode=admin"></td>
+    <td><img align="top" width="300px" src="https://cloud.appwrite.io/v1/storage/buckets/aora_files/files/668915a800389ab6a571/view?project=66859bce00205e2443e4&mode=admin"></td>
+  </tr>
+</table>
